@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Miller Barrera Gonzalez</h1>
-<h3 align="center">A passionate data science and full stack developer from Colombia</h3>
+<h3 align="center">A passionate Data science and Full stack developer from Colombia</h3>
 <img alt="Coding" width="400" src="https://i.gifer.com/3HeZ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbarrerag&label=Profile%20views&color=0e75b6&style=flat" alt="mbarrerag" /> </p>
 
