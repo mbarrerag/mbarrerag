@@ -1,7 +1,6 @@
 <div>
   <img align="center" alt="Coding" src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif" width="1000">
   <img align="left" alt="Coding" src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif" width="1000">
-  <img alt="Coding" aling:"center" src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif" width="1000">
 
 </div>
 
