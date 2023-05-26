@@ -24,6 +24,22 @@
 
 ![Snake animation](https://github.com/MatheusKristman/MatheusKristman/blob/output/github-contribution-grid-snake.svg)
 
+```Python
+# This is a dictionary in Python
+about_me= {
+  gatos: True,
+  perros: True,
+  country: "Colombia",
+  age: 21,
+  city: "Bogota", 
+  main_languages: [
+    "Python", "Java", "JavaScript"],
+  secondary_languages: [
+     "SQL", "CSS", "C & C++"
+  ]
+}
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbarrerag&show_icons=true&locale=en&layout=compact" alt="mbarrerag" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarrerag&show_icons=true&locale=en" alt="mbarrerag" /></p>
