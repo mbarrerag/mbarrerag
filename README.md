@@ -24,8 +24,9 @@
 
 ![Snake animation](https://github.com/MatheusKristman/MatheusKristman/blob/output/github-contribution-grid-snake.svg)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbarrerag&show_icons=true&locale=en&layout=compact" alt="mbarrerag" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbarrerag&show_icons=true&locale=en&layout=compact" alt="mbarrerag" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarrerag&show_icons=true&locale=en" alt="mbarrerag" /></p>
 
 
 
