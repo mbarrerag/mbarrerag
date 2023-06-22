@@ -46,18 +46,6 @@
   </p>
 </details>
 
-
-
-<p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
-  </a>
-</p>
-
-
-
-
-
 ```Python
 # This is a dictionary in Python
 about_me= {
@@ -73,3 +61,8 @@ about_me= {
   ]
 }
 
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+  </a>
+</p>
