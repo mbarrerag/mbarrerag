@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbarrerag&show_icons=true&locale=en&layout=compact" alt="mbarrerag" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarrerag&show_icons=true&locale=en" alt="mbarrerag" /></p>
+<p>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbarrerag&theme=default" /></p>
 
 
 
@@ -39,9 +39,6 @@
     </a>
     <a href="https://github.com/mbarrerag">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=mbarrerag&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon" />
-    </a>
-    <a href="https://github.com/mbarrerag">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbarrerag&theme=default" />
     </a>
   </p>
 </details>
