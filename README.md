@@ -38,7 +38,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mbarrerag&theme=default"/>
   </a>
   <a href="https://github.com/mbarrerag">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=mbarrerag&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon" />
   </a>
   <a href="https://github.com/mbarrerag">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbarrerag&theme=default" />
