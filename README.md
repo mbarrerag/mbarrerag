@@ -45,7 +45,7 @@
 
 ```Python
 # This is a dictionary in Python
-about_me= {
+about_me = {
   cats: True,
   dogs: True,
   country: "Colombia",
