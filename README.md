@@ -64,6 +64,14 @@
   </p>
 </details>
 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mbarrerag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
+</br>
+  
 ```Python
 # This is a dictionary in Python
 about_me = {
@@ -78,7 +86,3 @@ about_me = {
      "SQL", "CSS", "C & C++"
   ]
 }
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mbarrerag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
