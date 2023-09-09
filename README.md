@@ -6,13 +6,25 @@
 
 
 </center>
-<h1 align="center">Hi 👋, I'm Miller Barrera Gonzalez</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Miller+Barrera!;" />
+</h1>
 <h3 align="center">A passionate Data science and Full stack developer from Colombia</h3>
 <img alt="Coding" width="400" src="https://i.gifer.com/3HeZ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbarrerag&label=Profile%20views&color=0e75b6&style=flat" alt="mbarrerag" /> </p>
 
 <img alt="Coding" width="400" src="https://i.gifer.com/NvL.gif">
 - 📫 How to reach me **https://www.linkedin.com/in/miller-barrera-gonz%C3%A1lez-802535234/**
+
+<div align="center">
+  <h2>🐍🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
