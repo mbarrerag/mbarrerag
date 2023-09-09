@@ -11,6 +11,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Miller+Barrera!;" />
 </h1>
 <h3 align="center">A passionate Data science and Full stack developer from Colombia</h3>
+
+# 💫 About Me:
+🔭 I’m currently working on new projects
+<br>
+👯 I’m open to collaboration opportunities
+<br>🤝 Open to providing assistance
+<br>🌱 Continuously learning and growing
+
+
 <img alt="Coding" width="400" src="https://i.gifer.com/3HeZ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbarrerag&label=Profile%20views&color=0e75b6&style=flat" alt="mbarrerag" /> </p>
 
@@ -43,7 +52,7 @@
 
 
 <details>
-  <summary>Details</summary>
+  <summary>CLick here for Details</summary>
   <p align="center">
     <a href="https://github.com/mbarrerag">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mbarrerag&theme=default"/>
