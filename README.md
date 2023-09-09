@@ -79,3 +79,6 @@ about_me = {
   ]
 }
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mbarrerag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
