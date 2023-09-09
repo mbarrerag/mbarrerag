@@ -24,7 +24,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbarrerag&label=Profile%20views&color=0e75b6&style=flat" alt="mbarrerag" /> </p>
 
 <img alt="Coding" width="400" src="https://i.gifer.com/NvL.gif">
-- 📫 How to reach me **https://www.linkedin.com/in/miller-barrera-gonz%C3%A1lez-802535234/**
+
 
 <div align="center">
   <h2>🐍🐍</h2>
@@ -38,6 +38,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/https://www.linkedin.com/in/miller-barrera-gonz%c3%a1lez-802535234/](https://www.linkedin.com/in/miller-barrera-gonz%C3%A1lez-802535234/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miller-barrera-gonz%c3%a1lez-802535234/" height="30" width="40" /></a>
+  - 📫 How to reach me **https://www.linkedin.com/in/miller-barrera-gonz%C3%A1lez-802535234/**
 </p>
 
 # 💻 Tech Stack:
