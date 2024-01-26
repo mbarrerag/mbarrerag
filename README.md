@@ -87,6 +87,10 @@ about_me = {
      "SQL", "CSS", "C & C++"
   ]
 }
+
+<br>
+</br>
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
